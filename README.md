@@ -4,8 +4,8 @@ Public documentation companion for [Opulentia Digital Core Horizon](https://opul
 
 ## Contents
 
-- Architecture notes
-- Deployment notes
-- Contribution guidelines
+- [Architecture notes](ARCHITECTURE.md)
+- [Deployment notes](DEPLOYMENT.md)
+- [Contribution guidelines](CONTRIBUTING.md)
 
 More sections to come as the platform grows.
